@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: A4. Left Room
   m_EditorClassIdentifier: 
   storyText: "You go out the door and see your friend on the couch.  That's right
-    you stayed here last night.\r\n\r\nYou were safe the hole time.\r\n\r\nCongratulations,
+    you stayed here last night.\r\n\r\nYou were safe the whole time.\r\n\r\nCongratulations,
     you survived!\r\n\r\nPress 1 to play again.\r\nPress 2 to quit."
   nextStates:
   - {fileID: 11400000, guid: 07115f7f179ba574e975a723c2413c78, type: 2}
