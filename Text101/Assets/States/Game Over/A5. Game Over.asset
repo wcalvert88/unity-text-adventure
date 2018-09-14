@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e1f737846336104caa5d48a17d8f7da, type: 3}
+  m_Name: A5. Game Over
+  m_EditorClassIdentifier: 
+  storyText: 'You didn''t notice how high the window was off the ground and fell to
+    your death.
+
+
+    Press 1 to start over.
+
+    Press 2 to quit and give up.'
+  nextStates:
+  - {fileID: 11400000, guid: 07115f7f179ba574e975a723c2413c78, type: 2}
+  - {fileID: 11400000, guid: e7782e6f204bcb34fbfd3ffd4ac8eee4, type: 2}
+  - {fileID: 11400000, guid: e7782e6f204bcb34fbfd3ffd4ac8eee4, type: 2}
